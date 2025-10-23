@@ -20,3 +20,12 @@ Editer to Use for Editing: GIMP<br/>
 1. All English Descriptions outcomig in this Document are most directly translated matching to korean language orders. <br/>
 2. In-game Names are be written standards to korea maplestory2 and mix-used English version's Maplestory2 English Word if necessary<br/>
 <br/>
+
+## 아직 추가되지 않은, 보충용 외부 링크(한국어만 지원) / Not yet added, External Link for Supplementary (only supports Korean)
+프리스트 스킬 상세<br/>
+Priest Skill Detail<br/>
+https://1drv.ms/x/c/982708d4a0aa0c1a/ERoMqqDUCCcggJiFdwAAAAABf4-3oGCdXSE9X4vDgPc6aA?e=WH8jkT <br/>
+<br/>
+필드보스 순회 공략<br/>
+Fieldboss traverse Guide <br/>
+https://blog.naver.com/hoevf123/223741220706 <br/>
