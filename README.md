@@ -15,6 +15,8 @@ Editer to Use for Editing: GIMP<br/>
 <br/>
 ## 참고 / Note
 <br/>
-이 문서에서 나오는 모든 영어 설명은 한국어의 어순에 맞게 최대한 직역하였으며, 게임 내 명칭들은 한국 메이플스토리2 기준으로 작성하였고 필요에 따라 영어 버전의 메이플스토리2 영어 단어를 혼합 사용하였습니다.<br/>
-All English Descriptions outcomig in this Document are most directly translated matching to korean language orders, In-game Names are be written standards to korea maplestory2 and mix-used English version's Maplestory2 English Word if necessary<br/>
+1. 이 문서에서 나오는 모든 영어 설명은 한국어의 어순에 맞게 최대한 직역하였습니다. <br/>
+2. 게임 내 명칭들은 한국 메이플스토리2 기준으로 작성하였고 필요에 따라 영어 버전의 메이플스토리2 영어 단어를 혼합 사용하였습니다.<br/>
+1. All English Descriptions outcomig in this Document are most directly translated matching to korean language orders. <br/>
+2. In-game Names are be written standards to korea maplestory2 and mix-used English version's Maplestory2 English Word if necessary<br/>
 <br/>
